@@ -15,7 +15,7 @@ public class TextFile {
 			myFile = file;
 			
 			
-		} catch (FileNotFoundException e) {
+		} catch (FileNotFoundException ioException) {
 			System.out.println("Your file does not exist.");
 		}
 		while(myFile.hasNextLine()) {
