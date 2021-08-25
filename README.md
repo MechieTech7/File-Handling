@@ -7,3 +7,8 @@ After that i edited the code by removing closing the scanner file from Try part.
 Then it count lines, numbers and characters.
 As i used boolean there it shows only false as i used else loop there.
 But i constructed my lines as desired lines. Hence it does not validate boolean operation.
+
+
+
+//Wednesday//
+revised code and its output nd null as file output.
